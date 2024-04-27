@@ -1,0 +1,13 @@
+## SpringerLink
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | site d'**éditeur** |
+| producteur | Springer Nature |
+| accès HEG | [https://link.springer.com](https://link.springer.com) |
+| nb docs/titres | **16.5 millions de publications** dont <br/>10 millions d'articles <br/>5.3 millions de chapitres de livre <br/>1.5 millions d'articles de conférence <br/> |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1815 -> |
+
+*source*: [SpringerLink](https://link.springer.com/search?query=)   

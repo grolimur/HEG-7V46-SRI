@@ -1,0 +1,14 @@
+## GEOBASE
+Domaines: `géographie`, `science de la terre`, `écologie`, `environnement`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | Canadian Council on Geomatics |
+| accès HEG | ⛔️ *pas d'accès* |
+| nb docs/titres | **4.6 millions de publications** dont <br/>4.3 millions d'articles (2'100 journaux) <br/> 84'000 articles de conférence <br/> 3'500 chapitres de livre |
+| thésaurus | GEOTREE & REGTREE |
+| accès | limité |
+| couverture temporelle | 1973 -> |
+
+*source*: [Engineering Websites Index & Journals Database](https://www.elsevier.com/solutions/engineering-village/databases)

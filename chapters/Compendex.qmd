@@ -1,0 +1,14 @@
+## Compendex
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | Engineering Information |
+| accès HEG | ⛔️ *pas d'accès* |
+| nb docs/titres | **30 millions de publications** dont <br/>17 millions d'articles <br/>10 mllions d'articles de conférences <br/> |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1970 -> (28 mios de réf.)<br/>1884-1969 (1.7 mios de réf.)|
+
+*source*: [Elsevier - Ei Compendex](https://www.elsevier.com/__data/assets/pdf_file/0018/1311129/CompendexonEngineeringVillageflyerQUOTES.pdf)   
+Compendex est une base de données multidisciplinaire, mais ne couvrent que les domaines liés à l'ingénierie (**physique, bioingénierie, technologie, matériaux, électronique, mécanique**, etc.).   

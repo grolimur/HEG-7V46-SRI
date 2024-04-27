@@ -1,0 +1,14 @@
+## The Lens
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | **moteur** de recherche |
+| producteur | Université autralienne du Queensland & Cambia |
+| accès HEG | [https://www.lens.org](https://www.lens.org) |
+| nb docs/titres | 268 millions de publications académiques, 153 millions de brevets |
+| accès | ouvert |
+| couverture temporelle | ? |
+
+The Lens repose sur [Microsoft Academic](https://www.academic.microsoft.com), [CrossRef](https://www.crossref.org), [ORCID](https://www.orcid.org), [PubMed](https://www.ncbi.nlm.nih.gov/pubmed), [Impactstory](https://www.impactstory.org) et [CORE](https://www.core.ac.uk) pour les publications académiques.
+
+source: [About the Lens](https://about.lens.org)

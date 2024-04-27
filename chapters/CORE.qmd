@@ -1,0 +1,14 @@
+## CORE (Connecting Repositories)
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | **moteur** de recherche |
+| producteur | The Open University |
+| accès HEG | [https://core.ac.uk/](https://core.ac.uk/) |
+| nb docs/titres | 296 millions de réféfences bibliographiques de publications scientifiques open access |
+| accès | ouvert |
+| couverture temporelle | ? |
+
+CORE aggrège des données provenant de plus de 10'000 dépôts institutionnels/thématiques open acces dans le monde entier (cf. [https://core.ac.uk/data-providers](https://core.ac.uk/data-providers)).
+
+source: [About CORE](https://core.ac.uk/about)

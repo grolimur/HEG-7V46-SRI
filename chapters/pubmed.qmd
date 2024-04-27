@@ -1,0 +1,22 @@
+# PubMed
+
+| Fonctionnalités | Possibilités |
+| :-------- | :---- |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
+| opérateurs<br/>de proximité | [field:~n] |
+| troncature | `*` (zéro ou plus de caractères) <br/> *troncature possible à droite* <br/>*4 caractères minimum doivent être fournis* |
+| phrase | `"..."` |
+| interprétation<br/>de la requête | oui (*mapping* \*) |
+| historique | oui |
+| aide | [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help/) |
+
+\* Bien qu'elle interprète elle aussi les requêtes, PubMed est la seule plateforme qui vous permet de savoir comment la requête a été interprétée (`Advanced` > `History and Search Details` > `Details`).
+
+**Exemples**   
+`flavor*` renvoie flavor, flavored, flavorful, flavoring, etc.   
+
+`"rationing healthcare"[Title:~2]` renvoie rationing healthcare, healthcare rationing, rationing of healthcare, rationing in healthcare, rationing universal healthcare, rationing strategies in healthcare, rationing limited healthcare...
+
+Notez que l'utilisation des guillemets est indispensable avec l'opérateur de proximité. `rationing healthcare[Title:~2]` ne fonctionne pas.
+
+*source*: [Help - PubMed](https://pubmed.ncbi.nlm.nih.gov/help/)

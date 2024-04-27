@@ -1,0 +1,15 @@
+## Embase
+Domaines: `biologie`, `médecine`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | Elsevier |
+| accès HEG | [https://www.embase.com](https://www.embase.com) |
+| nb docs/titres | **45 millions d'articles*** |
+| thésaurus | Emtree |
+| accès | limité |
+| couverture temporelle | 1947 -> |
+
+*source*: [Embase Content and Coverage](https://www.elsevier.com/solutions/embase-biomedical-research/coverage-and-content)   
+\* **Embase** annonce explicitement fournir 10 millions d'articles qui ne sont pas dans MEDLINE...

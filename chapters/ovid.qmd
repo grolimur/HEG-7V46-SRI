@@ -1,0 +1,29 @@
+# Ovid
+
+| Fonctionnalités | Possibilités |
+| :-------- | :---- |
+| opérateurs<br/>booléens | `AND`<br/>`OR`<br/>`NOT` |
+| opérateurs<br/>de proximité | `AJD`n |
+| troncature | `$`, `*` (troncature à droite illimitée)<br/>`?n`, `*n` (troncature à droite, n caractères exactement)<br/>`#` (un seul caractère dans ou à la fin d'un mot)<br/>`?` (zéro ou un  caractère dans ou à la fin d'un mot)<br/> |
+| phrase | `"..."` |
+| interprétation<br/>de la requête | oui |
+| historique | oui |
+| aide | [Aide](https://site.ovid.com/site/help/documentation/osp/en/index.htm#CSHID=login.htm|StartTopic=Content/login.htm|SkinName=OvidSP_WebHelp_Skin) |
+
+La plateforme Ovid offre une fonctionalité de recherche que les autres ne proposent pas. À l'aide de l'opérateur `FREQ`, il est possible de spécifier le nombre minimum d'occurence d'un terme de recherche dans la notice pour qu'elle soit retenue dans les résultats. L'idée derrière cette fonctionnalité est que plus un résultat contient un terme, plus il est pertinent. Cet opérateur ne peut pas être utilisé avec plusieurs champs.
+
+`science.ab./freq=3` renvoie les résultats où "science" apparaît au moins 3 fois dans le résumé.
+
+`science.ti,ab./freq=3` ne fonctionne pas, car les champs titre (*title*) et résumé (*abstract*) sont interrogés.
+
+
+**Exemples**   
+`cats AND dogs.ti` renvoie tous les résultats où "cats" et "dogs" apparaissent dans le titre.
+
+`gene*` renvoie les résulats contenant gene, genes, genetics, and generation.
+
+`dog$1` renvoie les résulats contenant dog et dogs, mais pas dogma p. ex.
+
+`dog#` renvoie les résulats contenant dogs, mais pas dog. `wom#n` renvoie les résulats contenant woman et women.
+
+`colo?r` renvoie les résulats contenant color et colour.

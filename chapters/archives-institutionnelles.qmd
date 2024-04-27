@@ -1,0 +1,18 @@
+# ARCHIVES INSTITUTIONNELLES
+
+*Voici quelques* ***archives institutionnelles*** *pertinentes en Suisse romande*   
+
+| archives ouvertes | institution | nb docs/titres |
+| :-- | :-- | --: |
+| [Archive ouverte UNIGE](https://archive-ouverte.unige.ch) | Université de Genève | 108'000 publications |
+| [ArODES](https://arodes.hes-so.ch/)  | HES-SO | 13'00 publications |
+| [CERN Document Server](https://cds.cern.ch/) \* | CERN | 537'000 publications |
+| [Infoscience](https://infoscience.epfl.ch/) | EPFL | 176'000 publications |
+| [Libra](https://libra.unine.ch) \*\* | Université de Neuchâtel | 28'000 publications |
+| [SONAR](https://sonar.rero.ch/) \*\* | RERO | 320'000 publications |
+| [Serval](https://serval.unil.ch/search)   | Université de Lausanne | 200'000 publications |
+| [Archive ouverte HAL](https://hal.archives-ouvertes.fr) | France | 3'600'000 publications |
+
+\* Les recherches menées au CERN ne concerne qu'un domaine bien précis de la physique, la physique des hautes énergies. Par contre, comme le CERN fournit la très grande majorité des publications dans ce domaine, le CERN Document Server est une base de données importante.   
+
+\** RERO DOC inclut ecnore les publications de l'Université de Fribourg.

@@ -1,0 +1,15 @@
+## CINAHL Ultimate\*
+Domaines: `infirmerie`, `soins paramédicaux`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | site d'**éditeur** |
+| producteur | EBSCO |
+| accès HEG | [https://web.p.ebscohost.com/ehost/search/advanced?vid=7&sid=4dda9267-b432-4c62-ac5c-e2194276f5ab%40redis](https://web.p.ebscohost.com/ehost/search/advanced?vid=7&sid=4dda9267-b432-4c62-ac5c-e2194276f5ab%40redis) |
+| nb docs/titres | **9 millions d'articles** provenant de <br/>2'500 revues |
+| thésaurus | MeSH |
+| accès | limité |
+| couverture temporelle | 1937 -> |
+
+*source*: [CINAHL ultimate | EBSCO](https://www.ebsco.com/fr-fr/products/research-databases/cinahl-ultimate)  
+\* **CINAHL Database** est base de données bibliographique, alors que **CINAHL Ultimate** donne accès au texte intégral des revues indexées. À la HES-SO, nous avons accès à la seconde.

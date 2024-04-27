@@ -1,0 +1,14 @@
+## MathSciNet
+Domaines: `mathématiques`, `probabilités`, `statistiques`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | American Mathematical Society |
+| accès HEG | [http://www.ams.org/mathscinet](http://www.ams.org/mathscinet) |
+| nb docs/titres | **3.6 millions de publications** provenant de <br/>650 journaux |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | env. 1800 -> |
+
+*source*: [MathSciNet - About](https://www.ams.org/mathscinet/help/about.html?version=2)

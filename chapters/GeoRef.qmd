@@ -1,0 +1,14 @@
+## GeoRef
+Domaines: `géographie`, `science de la terre`, `géologie`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | American Geological Insitute |
+| accès HEG | ⛔️ *pas d'accès* |
+| nb docs/titres | **4.6 millions de publications** dont <br/>3.4 millions articles provenant de <br/>2'500 journaux |
+| thésaurus | thésaurus de GeoRef |
+| accès | limité |
+| couverture temporelle | 1666 -> (Am. du nord) <br/>1933 -> (Europe) |
+
+*source*: [Engineering Websites Index & Journals Database](https://www.elsevier.com/solutions/engineering-village/databases)

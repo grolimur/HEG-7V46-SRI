@@ -1,0 +1,13 @@
+## Web of Science Core Collection
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | [Clarivate Analytics](https://fr.wikipedia.org/wiki/Clarivate_Analytics) |
+| accès HEG | [https://webofscience.com](https://webofscience.com) |
+| nb docs/titres | **86 millions\* de publications** dont<br/>21'000 journaux <br/>300'000 actes de conférences <br/>des livres |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1900 -> |
+
+*source*: [Web of Science Core Collection - Clarivate](https://clarivate.com/products/web-of-science/web-science-form/web-science-core-collection/)   

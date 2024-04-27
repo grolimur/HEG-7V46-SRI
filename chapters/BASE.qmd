@@ -1,0 +1,12 @@
+## Bielefeld Academic Search Engine (BASE)
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | **moteur** de recherche |
+| producteur | Bielefeld University Library |
+| accès HEG | [https://www.base-search.net](https://www.base-search.net/) |
+| nb docs/titres | 393 millions provenant de <br/>plus de [11'000 sources](https://www.base-search.net/about/en/about_sources_date.php) |
+| accès | ouvert |
+| couverture temporelle | ? |
+
+BASE indexe toutes les archives [institutionnels](archives-institutionnelles.qmd) ou [thématiques](archives-thematiques.qmd) présentés dans ce document - à l'exception de Libra (Université de Neuchâtel), Folia (Université de Fribourg) et BioRxiv - sans s'y limiter.

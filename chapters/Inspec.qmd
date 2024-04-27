@@ -1,0 +1,14 @@
+## Inspec
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | The Institution of Engineering and Technology (IET) |
+| accès HEG | Web of Science |
+| nb docs/titres | **22 millions de publications** dont <br/>plus de 10 millions d'articles de revues <br/>plusieurs millions d'articles de conférences <br/> |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1969 -> |
+
+*source*: [Elsevier - Inspec Database for Engineering Researchers](https://www.elsevier.com/__data/assets/pdf_file/0011/1311131/FactsheetInspeconEngineeringVillage.pdf)   
+Inspec est une base de données multidisciplinaire, mais ne couvrent que les domaines liés à l'ingénierie (**physique, électronique, informatique, mécanique**, etc.).   

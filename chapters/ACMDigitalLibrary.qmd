@@ -1,0 +1,15 @@
+## ACM Digital Library
+Domaines: `informatique`
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | site d'**éditeur** |
+| producteur | Association for Computing Machinery |
+| accès HEG | [https://dl.acm.org](https://dl.acm.org) |
+| nb docs/titres | **773'000 publications** provenant de <br/> revues scientifiques <br/>actes de conférences |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1951 -> |
+
+*source*: [ACM](https://dl.acm.org)
+

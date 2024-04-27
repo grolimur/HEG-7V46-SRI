@@ -1,0 +1,13 @@
+## Scopus
+
+| Rubriques | Infos |
+| :-------- | :---- |
+| type | base de données **bibliographique** |
+| producteur | Elsevier |
+| accès HEG | ⛔️ *pas d'accès* |
+| nb docs/titres | **94 millions de publications** dont <br/>29'000 revues scientifiques <br/>12 mios d'articles de conférence <br/>330'000 livres <br/>50 mios de brevets |
+| thésaurus | non |
+| accès | limité |
+| couverture temporelle | 1970 -> (84 mios avec les citations)<br/>1788-1969 (7 mios sans les citations) |
+
+*source*: [Scopus - Content Coverage Guide](https://www.elsevier.com/__data/assets/pdf_file/0007/69451/ScopusContentCoverageGuideWEB.pdf)   
