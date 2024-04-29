@@ -14,11 +14,11 @@ book:
   date: "2024-04-27"
   language: "fr"
   license: "CC BY 4.0"
-  pdf-url: "https://github.com/grolimur/HEG-764-31"
+  pdf-url: "https://grolimur.github.com/HEG-7V46-SRI"
   status : "living document"
   type: "book"
   version: "0.9"
-  abstract: "Ce manuel est principalement conçu pour accompagner le séminaire PLU6058, qui vise à améliorer les compétences informationnelles des étudiant.es des cycles supérieurs de l'Université de Montréal. Cependant, il peut également être utilisé de manière autonome et autodidacte pour la recherche et l'utilisation de la documentation dans le cadre d'un projet de recherche. En outre, il peut être utilisé comme une ressource éducative par les enseignant.es en bibliothèque de recherche."
+  abstract: "Ce document présente les ressources spécialisées en sciences et techniques pertinentes pour le cours de recherche dans les sources spécialisées (7V46-SRI-1) donné dans la filière Information Science de la Haute école de gestion de Genève."
   
   chapters:
   - index.qmd

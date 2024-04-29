@@ -14,7 +14,7 @@
     "href": "index.html#contexte",
     "title": "Recherche d’information dans les sources spécialisées en sciences & techniques",
     "section": "1.1 Contexte",
-    "text": "1.1 Contexte\nLe cours Recherche d’information dans les sources spécialisées (HEG-764-31) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID), est découpé en 3 parties, couvrant chacune des domaines différents:\n\ndroit, économie et gestion\nsciences humaines et sociales\nsciences et techniques\n\n\n\n\n\n\n\nIMPORTANT\n\n\n\n\nCes notes ne concernent que les ressources en sciences et techniques.",
+    "text": "1.1 Contexte\nLe cours Recherche d’information dans les sources spécialisées (HEG-7V46-SRI-1) dispensé à la Haute école de gestion (HEG) de Genève, filière Information Science, est découpé en 3 parties, couvrant chacune des domaines différents:\n\ndroit, économie et gestion\nsciences humaines et sociales\nsciences et techniques\n\n\n\n\n\n\n\nIMPORTANT\n\n\n\n\nCes notes ne concernent que les ressources en sciences et techniques.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Recherche d'information dans les sources spécialisées en sciences & techniques</span>"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#objectifs-du-cours",
     "title": "Recherche d’information dans les sources spécialisées en sciences & techniques",
     "section": "1.2 Objectifs du cours",
-    "text": "1.2 Objectifs du cours\nCf. descriptif du module 7V4/6-SRI\nObjectifs pédagogiques :\n* Connaître les spécificités de la recherche d’information par domaine du savoir et les principales sources utilisées ; * savoir utiliser ces sources ; * être capable de sélectionner ces sources en fornction des besoins d’informations ; * savoir citer les références trouvées.",
+    "text": "1.2 Objectifs du cours\nCf. descriptif du module 7V4/6-SRI\nObjectifs pédagogiques :\n* Connaître les spécificités de la recherche d’information par domaine du savoir et les principales sources utilisées ;\n* savoir utiliser ces sources ;\n* être capable de sélectionner ces sources en fornction des besoins d’informations ;\n* savoir citer les références trouvées.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Recherche d'information dans les sources spécialisées en sciences & techniques</span>"
     ]
@@ -299,23 +299,23 @@
   {
     "objectID": "chapters/archives-institutionnelles.html",
     "href": "chapters/archives-institutionnelles.html",
-    "title": "19  ARCHIVES INSTITUTIONNELLES",
+    "title": "19  Archives institutionnelles",
     "section": "",
     "text": "Voici quelques archives institutionnelles pertinentes en Suisse romande\n\n\n\narchives ouvertes\ninstitution\nnb docs/titres\n\n\n\n\nArchive ouverte UNIGE\nUniversité de Genève\n108’000 publications\n\n\nArODES\nHES-SO\n13’00 publications\n\n\nCERN Document Server *\nCERN\n537’000 publications\n\n\nInfoscience\nEPFL\n176’000 publications\n\n\nLibra **\nUniversité de Neuchâtel\n28’000 publications\n\n\nSONAR **\nRERO\n320’000 publications\n\n\nServal\nUniversité de Lausanne\n200’000 publications\n\n\nArchive ouverte HAL\nFrance\n3’600’000 publications\n\n\n\n* Les recherches menées au CERN ne concerne qu’un domaine bien précis de la physique, la physique des hautes énergies. Par contre, comme le CERN fournit la très grande majorité des publications dans ce domaine, le CERN Document Server est une base de données importante.\n** RERO DOC inclut ecnore les publications de l’Université de Fribourg.",
     "crumbs": [
       "ARCHIVES OUVERTES",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>ARCHIVES INSTITUTIONNELLES</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Archives institutionnelles</span>"
     ]
   },
   {
     "objectID": "chapters/archives-thematiques.html",
     "href": "chapters/archives-thematiques.html",
-    "title": "20  ARCHIVES THÉMATIQUES",
+    "title": "20  Archives thématiques",
     "section": "",
-    "text": "20.1 Les serveurs de preprints fleurissent…\nDepuis 2016, plusieurs clones d’arXiv ont fait leur apparition. Dans le domaines des sciences et techniques, notons engrXiv, ChemRxiv, EarthArXiv et PaleorXiv, qui ont vocation à collecter les preprints en ingénierie, chimie, sciences de la terre et paléontologie respectivement. La plupart de ces serveurs utilisent la même plateforme, OSF Preprints, ce qui les rend interopérables les unes avec les autres. Il est donc possible de rechercher sur toutes ces plateformes à la fois. Cela représente tout de même plus de 2.4 millions de preprints…",
+    "text": "Voici quelques archives thématiques pertinentes en Suisse romande\n\n\n\narchives ouvertes\ndomaine\nnb docs/titres\n\n\n\n\narXiv\nmaths, physique, informatique\n2’400’000 publications\n\n\nbioRxiv\nsciences biomédicales\n232’000 publications\n\n\nCERN Document Server\nphysique des hautes énergies\n537’000 publications\n\n\n\narXiv collecte des preprints, documents n’ayant pas encore été soumis ou validés dans une revue scientifique. Certaines publications, lorsque c’est autorisé, sont enrichies du postprint, version revue, corrigée et validée, mais pas encore mise en forme par l’éditeur. Dans arXiv, la date correspond à la date de dépôt. arXiv a été créé en 1991. Il se peut toutefois que certains documents aient été rédigés avant cette date.\nbiorXiv ne collecte plus aussi que des preprints. Il y a toutefois le lien vers la plateforme de l’éditeur lorsque l’article a été validé. Le contenu de medRxiv, archive ouverte en médecine lancée en 2016, est inclus dans bioRxiv. L’inverse est vrai aussi. Dans bioRxiv, la date correspond à la date de dépôt sur la plateforme. Cette dernière a été créée en 2013. bioRxiv n’est pas indexé dans BASE.\nLes recherches menées au CERN ne concerne qu’un domaine bien précis de la physique, la physique des hautes énergies. Par contre, comme le CERN fournit la très grande majorité des publications dans ce domaine, le CERN Document Server est une base de données importante.\nLes serveurs de preprints fleurissent…\nDepuis 2016, plusieurs clones d’arXiv ont fait leur apparition. Dans le domaines des sciences et techniques, notons engrXiv, ChemRxiv, EarthArXiv et PaleorXiv, qui ont vocation à collecter les preprints en ingénierie, chimie, sciences de la terre et paléontologie respectivement. La plupart de ces serveurs utilisent la même plateforme, OSF Preprints, ce qui les rend interopérables les unes avec les autres. Il est donc possible de rechercher sur toutes ces plateformes à la fois. Cela représente tout de même plus de 2.4 millions de preprints…",
     "crumbs": [
       "ARCHIVES OUVERTES",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>ARCHIVES THÉMATIQUES</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Archives thématiques</span>"
     ]
   },
   {
@@ -353,12 +353,12 @@
   {
     "objectID": "chapters/google-scholar.html",
     "href": "chapters/google-scholar.html",
-    "title": "23  GOOGLE SCHOLAR",
+    "title": "23  Google Scholar",
     "section": "",
     "text": "Google Scholar est le moteur de recherche académique le plus utilisé\n\n\n\nRubriques\nInfos\n\n\n\n\ntype\nmoteur de recherche\n\n\nproducteur\nGoogle\n\n\naccès HEG\nhttps://scholar.google.com\n\n\nnb docs/titres\n?\n\n\naccès\nouvert\n\n\ncouverture temporelle\n?\n\n\n\nGoogle Scholar n’est pas le seul moteur de recherche académique, mais c’est de loin le plus utilisé…\nÀ titre informatif, en voici d’autres :\nCiteSeerX\nscinapse\nSemantic Scholar\nWolfram Alpha\nUn temps, Elsevier a proposé le sien (Scirus) mais a finalement abandonné. De même, Microsoft a désactivé (Microsoft Academic) fin 2021.",
     "crumbs": [
       "MOTEURS DE RECHERCHE",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>GOOGLE SCHOLAR</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Google Scholar</span>"
     ]
   },
   {

@@ -1,7 +1,7 @@
 # Recherche d'information dans les sources spécialisées en sciences & techniques
 
 ## Contexte
-Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID), est découpé en 3 parties, couvrant chacune des domaines différents:
+Le cours **Recherche d'information dans les sources spécialisées** (HEG-7V46-SRI-1) dispensé à la Haute école de gestion (HEG) de Genève, filière Information Science, est découpé en 3 parties, couvrant chacune des domaines différents:
 
 > droit, économie et gestion   
 > sciences humaines et sociales   
@@ -17,10 +17,10 @@ Le cours **Recherche d'information dans les sources spécialisées** (HEG-764-31
 Cf. [descriptif du module 7V4/6-SRI](https://www.hesge.ch/heg/sites/default/files/formation-base/IS/plan-modulaire/7v4-6-sri-services-reference-recherche-information.pdf)
 
 Objectifs pédagogiques :   
-* Connaître les spécificités de la recherche d’information par domaine du savoir et les principales sources utilisées ;
-* savoir utiliser ces sources ;
-* être capable de sélectionner ces sources en fornction des besoins d’informations ;
-* savoir citer les références trouvées.
+* Connaître les spécificités de la recherche d’information par domaine du savoir et les principales sources utilisées ;   
+* savoir utiliser ces sources ;   
+* être capable de sélectionner ces sources en fornction des besoins d’informations ;   
+* savoir citer les références trouvées.   
 
 
 ## Auteur
